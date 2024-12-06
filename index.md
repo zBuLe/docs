@@ -9,6 +9,8 @@ layout: default
 to do my page
 ## setp one
 
+
+Dis Com [link](/Dis%20Com.md)
 - a
 -  b
 - d
