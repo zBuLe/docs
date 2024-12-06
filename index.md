@@ -8,4 +8,4 @@ layout: default
 
 [md-editor](https://jbt.github.io/markdown-editor/)
 
-- Dis Com [link](/dis-com.md)
+- [Dis Com](/dis-com.md)
