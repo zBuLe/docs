@@ -4,14 +4,8 @@ permalink: /
 layout: default
 ---
 
-# Page
+# Documents
 
-to do my page
-## setp one
+[md-editor](https://jbt.github.io/markdown-editor/)
 
-
-Dis Com [link](/dis-com.md)
-- a
--  b
-- d
-- 0
+- Dis Com [link](/dis-com.md)
