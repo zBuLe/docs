@@ -10,7 +10,7 @@ to do my page
 ## setp one
 
 
-Dis Com [link](/Dis%20Com.md)
+Dis Com [link](/dis-com.md)
 - a
 -  b
 - d
